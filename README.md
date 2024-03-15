@@ -3,18 +3,15 @@
   <img src="https://profile-counter.glitch.me/1202dreamscape/count.svg?">
 </div>
 
+<p></p>
 
 <div align = center id = badges>
-  <a href="www.linkedin.com/in/christelle-cerezo"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width=52 height=40>
-  </a>
-  <a href="instagram.com/cjc.02"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width=52 height=40>
-  </a>
-  <a href="t.me/oddtokki"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width=52 height=40>
-  </a>
+  <img href="www.linkedin.com/in/christelle-cerezo" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width=52 height=40>
+  <img href="instagram.com/cjc.02" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width=52 height=40>
+  <img href="t.me/oddtokki" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width=52 height=40>
 </div>
 
 -------------
-
 
 <div align = center>
 <img src = "https://raw.githubusercontent.com/1202dreamscape/1202dreamscape/output/github-contribution-grid-snake.svg">
