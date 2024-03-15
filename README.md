@@ -1,23 +1,16 @@
-
-<div align=center>
-  <img src="https://profile-counter.glitch.me/1202dreamscape/count.svg?">
-</div>
-
-<p></p>
+<img align=right src="https://i.pinimg.com/originals/65/29/47/652947f460b5edade21777d40ac2228d.gif" width=350 height=270>
 
 <div align = center id = badges>
+  <img src="https://profile-counter.glitch.me/1202dreamscape/count.svg?">
+  <p></p>
   <img href="www.linkedin.com/in/christelle-cerezo" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width=52 height=40>
   <img href="instagram.com/cjc.02" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width=52 height=40>
   <img href="t.me/oddtokki" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width=52 height=40>
 </div>
 
--------------
+------
 
-<div align = center>
-<img src = "https://raw.githubusercontent.com/1202dreamscape/1202dreamscape/output/github-contribution-grid-snake.svg">
-</div>
-
--------------
+<img align=left src="https://i.pinimg.com/originals/24/a1/b8/24a1b8774a35ca8a2c0835df90c9d631.gif" width=400 height=270>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -83,4 +76,8 @@
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
 </div>
 
-###
+-------------
+
+<div align = center>
+<img src = "https://raw.githubusercontent.com/1202dreamscape/1202dreamscape/output/github-contribution-grid-snake.svg">
+</div>
