@@ -10,4 +10,6 @@
 * ❤️ I love ...
 * ⚡ Fun fact: ...
 
-https://raw.githubusercontent.com/1202dreamscape/1202dreamscape/output/github-contribution-grid-snake.svg
+<div align = center>
+<img src = "https://raw.githubusercontent.com/1202dreamscape/1202dreamscape/output/github-contribution-grid-snake.svg">
+</div>
