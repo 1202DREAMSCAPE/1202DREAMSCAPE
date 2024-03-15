@@ -10,5 +10,4 @@
 * ❤️ I love ...
 * ⚡ Fun fact: ...
 
-
-![Snake animation](https://github.com/1202dreamscape/1202dreamscape/blob/output/github-contribution-grid-snake.svg)
+https://raw.githubusercontent.com/1202dreamscape/1202dreamscape/output/github-contribution-grid-snake.svg
