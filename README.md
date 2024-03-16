@@ -1,4 +1,3 @@
-<img align=right src="https://i.pinimg.com/originals/65/29/47/652947f460b5edade21777d40ac2228d.gif" width=350 height=270>
 
 <div align = center id = badges>
   <img src="https://profile-counter.glitch.me/1202dreamscape/count.svg?">
