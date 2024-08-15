@@ -48,9 +48,6 @@
 
 ### 📬 Connect with Me
 
-- **LinkedIn:** [CJ on LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/christelle-cerezo/)
-  
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=1202dreamscape.visitor-badge" alt="Visitors Badge">
-</div>
+- **LinkedIn:** [Click Me ₊˚⊹♡](https://www.linkedin.com/in/christelle-cerezo/)
+
 
