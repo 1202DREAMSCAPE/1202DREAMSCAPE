@@ -28,7 +28,6 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1202dreamscape&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1202dreamscape&theme=radical" alt="GitHub Streak">
 </div>
 
