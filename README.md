@@ -33,7 +33,7 @@
 
 ### 🏆 Achievements
 
-- **FastTrack Solutions** Solutions Architect intern with a focus on data engineering and cloud computing.
+- **FastTrack Solutions** intern with a focus on data engineering and cloud computing as a Solutions Architect.
 - **Developed** and published several projects on GitHub, showcasing a blend of software engineering and game development skills.
 - **Contributed** to open-source projects and engaged in community-driven learning.
 
