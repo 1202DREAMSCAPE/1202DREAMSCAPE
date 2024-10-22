@@ -31,7 +31,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1202dreamscape&theme=radical" alt="GitHub Streak">
 </div>
 
-📊 **Weekly development breakdown**
+### 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```txt
@@ -45,12 +45,6 @@ Python           4 mins          ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-### 🏆 Achievements
-
-- **FastTrack Solutions** intern with a focus on data engineering and cloud computing as a Solutions Architect.
-- **Developed** and published several projects on GitHub, showcasing a blend of software engineering and game development skills.
-- **Contributed** to open-source projects and engaged in community-driven learning.
 
 ---
 
