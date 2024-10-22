@@ -17,7 +17,7 @@
 - 💻 Passionate about **software development** and **data engineering**, with hands-on experience in both fields.
 - 🎮 Exploring the world of **game development** as a side project.
 - 🎓 Currently in my final year of **Computer Science**, working on various projects that blend creativity and technical expertise.
-- 🚀 Always eager to learn and experiment with new technologies and frameworks.
+- 🚀 Specializing in **full stack web development**, with a strong focus on **backend development**.
 
 ### 🛠️ Tech Stack
 
