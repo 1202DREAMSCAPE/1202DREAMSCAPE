@@ -35,11 +35,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2024 - To: 06 November 2024
+From: 31 October 2024 - To: 07 November 2024
 
-Blade Template   15 mins         ██████████████▓░░░░░░░░░░   58.33 %
-R                10 mins         ██████████░░░░░░░░░░░░░░░   40.06 %
-Bash             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Blade Template   12 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
