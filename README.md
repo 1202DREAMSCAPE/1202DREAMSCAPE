@@ -35,13 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2024 - To: 26 December 2024
+From: 20 December 2024 - To: 27 December 2024
 
-Python           48 mins         ████████████████████▓░░░░   82.33 %
-JavaScript       9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-Other            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python   1 hr 37 mins    █████████████████████████   99.60 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
