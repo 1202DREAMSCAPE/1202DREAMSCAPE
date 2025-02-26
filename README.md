@@ -35,7 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 February 2025 - To: 24 February 2025
+From: 18 February 2025 - To: 25 February 2025
 
 Python     2 hrs 57 mins   █████████████████████▓░░░   86.25 %
 Text       23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
