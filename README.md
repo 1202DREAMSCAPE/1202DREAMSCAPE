@@ -35,7 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 11 April 2025
+From: 05 April 2025 - To: 12 April 2025
 
 Python       20 hrs 26 mins  ████████████████████░░░░░   80.56 %
 CSV          2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
