@@ -35,13 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2025 - To: 16 April 2025
+From: 10 April 2025 - To: 17 April 2025
 
-Python       7 hrs 52 mins   ██████████████████████▒░░   89.60 %
-Text         39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-CSV          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Markdown     2 mins          █████████████░░░░░░░░░░░░   52.57 %
+JavaScript   2 mins          ███████████▓░░░░░░░░░░░░░   47.08 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
