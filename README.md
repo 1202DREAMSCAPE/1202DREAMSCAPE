@@ -35,11 +35,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2025 - To: 19 April 2025
+From: 13 April 2025 - To: 20 April 2025
 
-Markdown     2 mins          █████████████░░░░░░░░░░░░   52.57 %
-JavaScript   2 mins          ███████████▓░░░░░░░░░░░░░   47.08 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+HTML         26 mins         █████████████████░░░░░░░░   67.86 %
+Python       5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Markdown     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+JavaScript   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Text         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->
