@@ -35,13 +35,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2025 - To: 08 July 2025
+From: 02 July 2025 - To: 09 July 2025
 
-JavaScript   5 hrs 12 mins   ████████████▒░░░░░░░░░░░░   49.68 %
-HTML         2 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   28.03 %
-Python       1 hr 45 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
-Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+JavaScript   7 hrs 11 mins   ████████████████▒░░░░░░░░   64.73 %
+HTML         2 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   20.25 %
+Python       1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+SQL          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
