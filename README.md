@@ -35,13 +35,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2025 - To: 09 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
-Svelte       3 hrs 3 mins    █████████████████░░░░░░░░   67.79 %
-TypeScript   35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-CSS          26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
-HTML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Svelte       3 hrs 31 mins   █████████████████░░░░░░░░   68.06 %
+TypeScript   47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
+CSS          26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+HTML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
