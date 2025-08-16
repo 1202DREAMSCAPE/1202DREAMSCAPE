@@ -35,7 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 14 August 2025
+From: 08 August 2025 - To: 15 August 2025
 
 Svelte       3 hrs 31 mins   █████████████████░░░░░░░░   68.06 %
 TypeScript   47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
