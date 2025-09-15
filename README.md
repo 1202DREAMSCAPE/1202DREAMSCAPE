@@ -35,7 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2025 - To: 13 September 2025
+From: 07 September 2025 - To: 14 September 2025
 
 HTML         30 mins         █████████▓░░░░░░░░░░░░░░░   38.45 %
 JavaScript   28 mins         █████████░░░░░░░░░░░░░░░░   36.55 %
