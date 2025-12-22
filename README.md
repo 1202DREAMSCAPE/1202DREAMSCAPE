@@ -3,11 +3,6 @@
   <p>Aspiring Software and Data Engineer | Game Development Enthusiast</p>
   <p>Computer Science Graduate</p>
 </div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/1202dreamscape/count.svg?" alt="Profile Views">
-</div>
-
 ---
 
 <img align="right" src="https://i.pinimg.com/originals/24/a1/b8/24a1b8774a35ca8a2c0835df90c9d631.gif" width="400" height="270">
@@ -22,12 +17,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,python,java,rust,kotlin,swift,dart,nodejs,laravel,flutter,unity,mongodb,mysql,sqlite,git,html,tailwind,css,gcp,linux,figma,illustrator,php,pycharm,phpstorm,jetbrains" height="130" alt="Tech Stack" />
-</div>
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1202dreamscape&theme=radical" alt="GitHub Streak">
 </div>
 
 ### 📊 **Weekly development breakdown**
