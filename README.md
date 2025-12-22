@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm CJ ʚɞ ⁺˖ ⸝⸝</h1>
   <p>Aspiring Software and Data Engineer | Game Development Enthusiast</p>
-  <p>Fourth-Year Computer Science Student</p>
+  <p>Computer Science Graduate</p>
 </div>
 
 <div align="center">
@@ -16,7 +16,6 @@
 
 - 💻 Passionate about **software development** and **data engineering**, with hands-on experience in both fields.
 - 🎮 Exploring the world of **game development** as a side project.
-- 🎓 Currently in my final year of **Computer Science**, working on various projects that blend creativity and technical expertise.
 - 🚀 Specializing in **full stack web development**, with a strong focus on **backend development**.
 
 ### 🛠️ Tech Stack
