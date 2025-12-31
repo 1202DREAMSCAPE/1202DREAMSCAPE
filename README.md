@@ -3,7 +3,6 @@
   <p>Aspiring Software and Data Engineer | Game Development Enthusiast</p>
   <p>Computer Science Graduate</p>
 </div>
----
 
 <img align="right" src="https://i.pinimg.com/originals/24/a1/b8/24a1b8774a35ca8a2c0835df90c9d631.gif" width="400" height="270">
 
