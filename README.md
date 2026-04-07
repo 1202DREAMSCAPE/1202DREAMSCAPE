@@ -22,10 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2026 - To: 05 April 2026
+From: 30 March 2026 - To: 06 April 2026
 
-JavaScript   10 mins               ████████████████████████▒   97.21 %
-HTML         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Other            49 mins               ████████████▓░░░░░░░░░░░░   50.07 %
+XML              29 mins               ███████▒░░░░░░░░░░░░░░░░░   29.74 %
+OpenEdge ABL     5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+JSON             4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+RobotFramework   4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->
