@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2026 - To: 23 April 2026
+From: 17 April 2026 - To: 24 April 2026
 
-JavaScript           2 hrs 3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.98 %
-HTML                 1 hr 51 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
-OpenEdge ABL         1 hr 45 mins          █████░░░░░░░░░░░░░░░░░░░░   20.51 %
-Other                1 hr 33 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
-XML                  26 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+OpenEdge ABL         1 hr 46 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
+HTML                 1 hr 45 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
+JavaScript           1 hr 38 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
+Other                1 hr 19 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+XML                  26 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 ```
 
 <!--END_SECTION:waka-->
