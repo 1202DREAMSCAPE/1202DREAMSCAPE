@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 07 October 2026
+From: 01 October 2026 - To: 08 October 2026
 
-CSV            10 mins               ████████████▓░░░░░░░░░░░░   51.07 %
-XML            9 mins                ████████████░░░░░░░░░░░░░   48.11 %
-JavaScript     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-OpenEdge ABL   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-HTML           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+HTML           19 mins               ███████████████░░░░░░░░░░   60.66 %
+XML            12 mins               █████████▒░░░░░░░░░░░░░░░   37.93 %
+CSS            0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+JavaScript     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+OpenEdge ABL   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
